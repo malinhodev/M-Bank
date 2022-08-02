@@ -1,0 +1,24 @@
+{
+  "name": "m-bank",
+  "version": "1.0.0",
+  "description": "App com abertura de conta, saques, depósitos simulando o app de um banco(sem interface gráfica).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Banco",
+    "malinhodev",
+    "app",
+    "banco",
+    "terminal",
+    "node"
+  ],
+  "author": "malinhodev",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2"
+  }
+}
